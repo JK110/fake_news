@@ -1,6 +1,6 @@
-!pip install transformers torch gradio pillow pytesseract
-!apt-get update
-!apt-get install -y tesseract-ocr
+# !pip install transformers torch gradio pillow pytesseract
+# !apt-get update
+# !apt-get install -y tesseract-ocr
 
 
 import gradio as gr

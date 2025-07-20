@@ -1,0 +1,7 @@
+transformers
+torch
+gradio
+pillow
+pytesseract
+tqdm
+sentencepiece
